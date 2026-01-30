@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👩🏻‍💻 Bruno Emanuel
 
-<!--
-**Bruno-Emanuel/Bruno-Emanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Cursando Análise e Desenvolvimento de Sistemas`**
 
-Here are some ideas to get you started:
+Me chamo Brunoo Emanuel e estou começando na área de T.I estou gostando muito da área e estudando bastante para aumentar meu conhecimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+
+
+
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Github" 
+    title="Github"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/394174/github.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="api" 
+    title="api"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.iconscout.com/icon/premium/png-256-thumb/api-icon-svg-download-png-1687200.png" 
+/>
+
+
+
+---
+<br/>
+<br/>
+
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
