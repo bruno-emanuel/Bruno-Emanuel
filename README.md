@@ -2,7 +2,7 @@
 
 **`Cursando Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Brunoo Emanuel e estou começando na área de T.I estou gostando muito da área e estudando bastante para aumentar meu conhecimento.
+Me chamo Bruno Emanuel e estou começando na área de T.I estou gostando muito da área e estudando bastante para aumentar meu conhecimento.
 
 
 ---
