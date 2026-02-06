@@ -73,11 +73,11 @@ Estou gostando muito da área e estudando bastante para aumentar meu conheciment
 
 ---
 
-## 🐍 Contribuições animadas
+<!-- ## 🐍 Contribuições animadas
 
 <p align="center">
   <img src="https://github.com/Bruno-Emanuel/Bruno-Emanuel/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+</p> -->
 
 <!-- FOOTER ANIMADO -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:00f7ff&height=120&section=footer"/>
