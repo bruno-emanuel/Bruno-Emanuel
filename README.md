@@ -1,121 +1,135 @@
-<!-- TÍTULO COM EFEITO DE DIGITAÇÃO -->
+<!-- BANNER -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Bem-vindo+ao+meu+GitHub!;Bruno+Emanuel+da+Silva+Cruz;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Suporte+T%C3%A9cnico+%7C+Python+%7C+Git+%7C+APIs;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00F7FF,50:6C63FF,100:A855F7&text=Bruno%20Emanuel&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- ANIMAÇÃO DE ONDA -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:8a2be2&height=120&section=header"/>
+<!-- TYPING -->
 
-# 👨🏻‍💻 Bruno Emanuel
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1800&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Olá,+eu+sou+Bruno+Emanuel;💻+Estudante+de+ADS;🐍+Python+•+Linux+•+Git+•+APIs;🚀+Construindo+projetos+todos+os+dias" />
+</p>
 
-**`Estudante de Análise e Desenvolvimento de Sistemas | Suporte Técnico em TI`**
-
-Sou apaixonado por tecnologia e estou construindo minha carreira na área de **Tecnologia da Informação**.  
-Tenho experiência prática com **manutenção de computadores, suporte técnico e resolução de problemas de hardware e software**, além de estar desenvolvendo habilidades em **programação e automação com Python**.
-
-Atualmente estudo **Análise e Desenvolvimento de Sistemas** e busco evoluir constantemente como profissional de tecnologia, explorando desenvolvimento de software, automação e infraestrutura.
-
----
-
-# 🎓 Sobre mim
-
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 💻 Experiência em **suporte técnico e manutenção de computadores**
-- 🐍 Estudando **Python para automação e desenvolvimento**
-- 🔗 Conhecimento em **Git e GitHub**
-- 🌐 Experiência com **consumo de APIs**
-- ⚡ Sempre aprendendo novas tecnologias
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/API-00C7B7?style=for-the-badge"/>
+</p>
 
 ---
 
-# 🧠 Tecnologias e Ferramentas
+# 👨🏻‍💻 Sobre mim
 
-<img 
-align="left" 
-alt="Python"
-title="Python"
-width="30px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-/>
+Sou estudante de **Análise e Desenvolvimento de Sistemas** apaixonado por tecnologia.
 
-<img 
-align="left" 
-alt="Git"
-title="Git"
-width="30px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-/>
+Atualmente estou focado em:
 
-<img 
-align="left" 
-alt="Github"
-title="Github"
-width="30px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-/>
+* 💻 Desenvolvimento Web
+* 🐍 Python
+* ⚡ Automação
+* 🔗 APIs
+* 🖥️ Linux
+* 🌐 Git/GitHub
 
-<img 
-align="left" 
-alt="Linux"
-title="Linux"
-width="30px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-/>
+Meu objetivo é evoluir constantemente e construir projetos cada vez mais completos.
 
-<img 
-align="left" 
-alt="Windows"
-title="Windows"
-width="30px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"
-/>
+---
 
-<img 
-align="left" 
-alt="API"
-title="API"
-width="30px" 
-style="padding-right:10px;" 
-src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png"
-/>
+# 🚀 Tecnologias
 
-<br/>
-<br/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,linux,vscode"/>
+
+</p>
 
 ---
 
 # 📚 Atualmente estudando
 
-- Python para automação
-- Integração e consumo de APIs
-- Boas práticas de versionamento com Git
-- Desenvolvimento de projetos para portfólio
+* Python para automação
+* Desenvolvimento Web
+* Git e GitHub
+* APIs REST
+* Estrutura de Dados
+* Arquitetura de Computadores
 
 ---
 
-# 📊 Estatísticas do GitHub
+# 🚀 Projetos
+
+| Projeto                            | Descrição                       |
+| ---------------------------------- | ------------------------------- |
+| 🏠 Imobiliária                     | Site institucional moderno      |
+| ⛪ Igreja                           | Landing Page                    |
+| 🧠 Simulado ADS                    | Plataforma de simulados em HTML |
+| 🤖 BrunoCLI *(em desenvolvimento)* | Assistente para terminal        |
+| 🌐 Portfólio                       | Projetos pessoais               |
+
+---
+
+# 📊 GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bruno-Emanuel&theme=tokyonight"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bruno-Emanuel&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Emanuel&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bruno-Emanuel&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 📫 Onde me encontrar
+# 🏆 Conquistas
 
-- 💼 LinkedIn: https://linkedin.com/in/bruno-emanuel-bb6014364  
-- 📧 Email: bruno.emanuel9065@gmail.com
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bruno-Emanuel&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
+</p>
 
 ---
 
-<!-- FOOTER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:00f7ff&height=120&section=footer"/>
+# 📈 Atividade
 
 <p align="center">
-✨ Em constante evolução, um commit por vez ☕🚀
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bruno-Emanuel&theme=tokyo-night&hide_border=true"/>
+
 </p>
+
+---
+
+# 📫 Contato
+
+<p align="center">
+
+<a href="https://linkedin.com/in/bruno-emanuel-bb6014364">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:bruno.emanuel9065@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> **"Transformando ideias em código, um commit por vez."** ☕🚀
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:A855F7,100:00F7FF"/>
+
+<!-- 😎 Se encontrou este comentário... o BrunoCLI está a caminho. -->
